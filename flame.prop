@@ -1,0 +1,7 @@
+
+# FlameGApps prop file
+ro.flame.android=10.0
+ro.flame.sdk=29
+ro.flame.arch=arm64
+ro.flame.edition=basic
+

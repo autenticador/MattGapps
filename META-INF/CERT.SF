@@ -1,0 +1,46 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+SHA1-Digest-Manifest: Ezz96wvBX/1DZzMk+LPzLFm5J2E=
+
+Name: META-INF/com/google/android/updater-script
+SHA1-Digest-Manifest: Br6xNsbYLFIighT+FGsY/cB14YM=
+
+Name: tar_gapps/DigitalWellbeing.tar.xz
+SHA1-Digest-Manifest: mdZmSffAs63YeX3II6xKaOzj3mU=
+
+Name: tar_gapps/SoundPickerGoogle.tar.xz
+SHA1-Digest-Manifest: 9C7r1PVWyV6d94Dk5h50r3II5b4=
+
+Name: META-INF/com/google/android/update-binary
+SHA1-Digest-Manifest: 2DjMtHofzh5UWMOD6MkMZ646w0s=
+
+Name: tar_core/Core.tar.xz
+SHA1-Digest-Manifest: 6iylRt4gMPABQD4S003AgZtCXlM=
+
+Name: busybox-arm
+SHA1-Digest-Manifest: YBSAvhXjKiP9qIBzl1Ig8uVGsp8=
+
+Name: tar_gapps/MarkupGoogle.tar.xz
+SHA1-Digest-Manifest: 6izfQRY5RVVESasmy/n6YG/A3gE=
+
+Name: tar_gapps/SetupWizard.tar.xz
+SHA1-Digest-Manifest: 2rR5a/5MeEDvjJnnLT4nCftyl58=
+
+Name: flame.prop
+SHA1-Digest-Manifest: vOggmwp0mTwts28kHfx+An2U86g=
+
+Name: tar_gapps/CalendarSync.tar.xz
+SHA1-Digest-Manifest: IZEwPeXaB7/SqcBZiuekWbSsvUQ=
+
+Name: installer.sh
+SHA1-Digest-Manifest: JNFb5olpIC8sQVUHe72wWz/IRW0=
+
+Name: tar_gapps/GooglePackageInstaller.tar.xz
+SHA1-Digest-Manifest: 3drNh1kul9NNLuTRbWzunXaQcWk=
+
+Name: backup_script.sh
+SHA1-Digest-Manifest: MAZbx5/kS3BGCYORaCacZHMJMYU=
+
+Name: LICENSE
+SHA1-Digest-Manifest: /aHXub7eBmvrjkul9k0mkBae3yg=
+
